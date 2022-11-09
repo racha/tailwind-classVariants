@@ -1,6 +1,6 @@
 {
   "name": "@stefanracic/tailwind-classvariants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind Plugin that helps you easily register new class based variants.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/racha/tailwind-child.git"
+    "url": "git+https://github.com/racha/tailwind-classVariants.git"
   },
   "keywords": [
     "tailwindcss",
@@ -21,9 +21,9 @@
   "author": "Stefan Racic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/racha/tailwind-child/issues"
+    "url": "https://github.com/racha/tailwind-classVariants/issues"
   },
-  "homepage": "https://github.com/racha/tailwind-child#readme",
+  "homepage": "https://github.com/racha/tailwind-classVariants#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.2"
   }
